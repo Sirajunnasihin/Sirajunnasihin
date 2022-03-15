@@ -6,7 +6,7 @@
 - website : ljtech.my.id
 - blog : sirajunnasihin.my.id
 
-you can send me email to therasoftware010@gmail.com
+you can send me email to source.code.rng@gmail.com
 
 <!---
 Sirajunnasihin/Sirajunnasihin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
