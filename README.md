@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning laravel 8 and other framework PHP
 - 💞️ I’m looking to collaborate on PHP Project
 - 📫 How to reach me
+- website : ljtech.my.id
+- blog : sirajunnasihin.my.id
 
 you can send me email to therasoftware010@gmail.com
 
