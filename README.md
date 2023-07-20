@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sirajunnasihin
 - 👀 I’m interested in something new and look great
 - 🌱 I’m currently a web developer using laravel
-- 🌱 And currently learning Rest-API anf Quasar Framework
+- 🌱 And currently learning Rest-API, Quasar Framework and Kotlin
 - 💞️ I’m looking to collaborate on PHP Project
 - 📫 How to reach me
 - website : ljtech.my.id
