@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Sirajunnasihin
+### Hi there 👋 my name is Sirajun Nasihin
+
 - 👀 I’m interested in something new and look great
 - 🌱 I’m currently a web developer using laravel
 - 🌱 And currently learning Rest-API, Quasar Framework and Kotlin
@@ -7,9 +8,6 @@
 - website : ljtech.my.id
 - blog : sirajunnasihin.my.id
 
-you can send me email to source.code.rng@gmail.com
+![Sirajun Nasihin github stats](https://github-readme-stats.vercel.app/api?username=Sirajunnasihin&show_icons=true&theme=default&include_all_commits=true)
 
-<!---
-Sirajunnasihin/Sirajunnasihin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![Views](https://komarev.com/ghpvc/?username=Sirajunnasihin)
