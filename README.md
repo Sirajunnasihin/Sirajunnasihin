@@ -10,7 +10,7 @@
 
 ### Let's connect!
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://www.t.me/akm_webdev)
+[![Telegram](https://img.shields.io/badge/web_site)](https://aifa-kreatif.biz.id)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:therasoftware010@gmail.com?subject=github_message)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sirajun-nasihin)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/sirajunnasihin.kom)
