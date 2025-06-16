@@ -10,7 +10,7 @@ Here are some of our open source highlights:
 
 I prepare to use Laravel for most of my projects and love to contribute to the awesome Laravel ecosystem. That's also why i have been building Laravel and PHP packages since 2020.
 
-You can help with our open source efforts in many ways: by [resolving open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Asirajunnasihin+is%3Apublic) or just by [donation](donation).
+You can help my open source efforts in many ways: by [resolving open issues](https://github.com/issues?q=is%3Aopen+is%3Aissue+user%3Asirajunnasihin+is%3Apublic) or just by [donation](donation).
 You can support open source work by sponsoring us [on GitHub](https://github.com/sponsors/sirajunnasihin) or another way.
 
 ### Github Stats:
