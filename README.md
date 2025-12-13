@@ -15,7 +15,7 @@ You can support open source work by sponsoring us [on GitHub](https://github.com
 
 ### Github Stats:
 <p>
-    <p>![Views](https://komarev.com/ghpvc/?username=Sirajunnasihin)</p>
+    ![Views](https://komarev.com/ghpvc/?username=Sirajunnasihin)</br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sirajunnasihin&layout=compact&langs_count=10" alt="Sirajunnasihin" height="200" />
 </p>
 
