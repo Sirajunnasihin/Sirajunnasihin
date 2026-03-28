@@ -7,6 +7,7 @@ Here are some of our open source highlights:
 - [Filament Showcase](https://github.com/Sirajunnasihin/filamentphp-showcase): A list of showcase implementation FilamentPHP on various case which can be use for free
 - [Laravel Payment Gateway](https://github.com/Sirajunnasihin/laravel-payment-gateway): Laravel packages to implementation payments gateway for Indonesian Bank
 - [Open Kampus](https://github.com/Open-Kampus/open-kampus): Open Source Academic Information System for Campus
+- [CMS](https://litpam.com): Content Management System for Lembaga Penelitian dan Pemberdayaan Masyarakat (LITPAM)
 
 I prepare to use Laravel for most of my projects and love to contribute to the awesome Laravel ecosystem. That's also why i have been building Laravel and PHP packages since 2020.
 
