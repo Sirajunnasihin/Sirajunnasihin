@@ -5,8 +5,13 @@ Here are some of our open source highlights:
 
 - [Biovel](https://github.com/Sirajunnasihin/biovel): Solution fingerprint machine integration with Laravel
 - [Filament Showcase](https://github.com/Sirajunnasihin/filamentphp-showcase): A list of showcase implementation FilamentPHP on various case which can be use for free
-- [Laravel Payment Gateway](https://github.com/Sirajunnasihin/laravel-payment-gateway): Laravel packages to implementation payments gateway for Indonesian Bank
-- [Open Kampus](https://github.com/Open-Kampus/open-kampus): Open Source Academic Information System for Campus
+- [SPISA](https://spisa.litpam.com): An inquiry-based learning platform centered on Socio-Scientific Issues (SSI), supported by the AI-powered reflective chatbot SPISA, designed to strengthen the metacognition and critical thinking of pre-service science teachers.
+- [RIME](https://rime.litpam.com): RiMe integrates e-Portfolios and digital scaffolding into the Reflective Metacognitive Learning (RML) syntax to strengthen self-regulation and critical thinking skills in prospective science teachers.
+- [Artikula](https://artikula.litpam.com): AI agent to generate paper
+- [SIAKAD](https://siakad-v2.unbim.ac.id): A full integrated system for university that include academic, admission, pddikti, finance, etc.
+- [ARSIVA](https://arsiva.unbim.ac.id): A filing system consistent with archival science.
+- [UNIMETRIC](https://unimetric.unbim.ac.id): University Key Performance Indicator Monitoring System.
+- [AKREMAP](https://akremap.unbim.ac.id): A system for monitoring the fulfillment of accreditation documents across institutions and instruments.
 - [CMS](https://litpam.com): Content Management System for Lembaga Penelitian dan Pemberdayaan Masyarakat (LITPAM)
 
 I prepare to use Laravel for most of my projects and love to contribute to the awesome Laravel ecosystem. That's also why i have been building Laravel and PHP packages since 2020.
